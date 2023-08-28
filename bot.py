@@ -2,7 +2,7 @@ import discord
 import commands
 import os.path
 
-
+#PapaJoe24 Helped test and build this bot
 def run_discord_bot(messages_filename, emoji_filename):
     TOKEN = 'MTE0NTQ5NTYzMjM2MzEzOTEwMw.GjWvDC.oYWBuTiTd378LA83pLQCfPHHQVPfCEpTurUdXo'
     intents = discord.Intents.default()
